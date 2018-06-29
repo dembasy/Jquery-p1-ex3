@@ -1,1 +1,3 @@
-$('#text').css('font-family','Arial');
+$(function(){
+  $('#text').css('font-family','Arial');
+});
